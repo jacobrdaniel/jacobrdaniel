@@ -5,10 +5,10 @@
 * Please don't ask me about my thinning hair.
 
 #### Academic Stats:
-* 3.9 GPA
-* Current Standing: Junior
-* Dean's List: Spring 2024, Spring 2025, and Fall 2025
-* President's List: Fall 2024 and Fall 2025
+* ~3.9 GPA
+* Current Standing: Senior
+* Dean's List: SP23, SP24, S25, F26, 
+* President's List: F23, F24, F25
 
 
 ## My Activities 
@@ -25,5 +25,9 @@
 * **Lab Assistant in Riggs Hall (ECE Department Building)**
     - Soldering workshops and assistance
     - 3D Printing Technical Work
-    - PCB Soldering / Design Experience 
+    - PCB Soldering / Design Experience
 
+* **Currently an ML and Stochastic Algorithms Researcher**
+    - National Science Foundation (NSF) Research
+    - Federated learning, distributed systems, stochastic optimization, security, etc.
+    - Privileged to begin thesis work early on Bayesian ML and Byzantine attacks
